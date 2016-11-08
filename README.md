@@ -1,0 +1,10 @@
+# Lifecycle<h1>
+#Screenshoot Aplikasi<h1>
+![Gambar 1](http://imageshack.com/a/img923/3524/ky0sDN.jpg)
+muncul suara nya...
+#Identitas<h1>
+1. Nama : Muhammad Rintohadi Prawiro
+2. Kelas : XIIRPL2
+3. No Absen : 30
+4. NIS : 4390/1288-070
+5. Asal Sekolah : SMK TELKOM MALANG
