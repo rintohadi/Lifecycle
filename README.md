@@ -1,7 +1,7 @@
 # Lifecycle<h1>
 #Screenshoot Aplikasi<h1>
+muncul suaranya..
 ![Gambar 1](http://imageshack.com/a/img923/3524/ky0sDN.jpg)
-muncul suara nya...
 #Identitas<h1>
 1. Nama : Muhammad Rintohadi Prawiro
 2. Kelas : XIIRPL2
